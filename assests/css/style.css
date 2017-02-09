@@ -16,10 +16,10 @@ p {
     border: 1px solid black;
 }
 
-#example {
-    margin-bottom: 30px;
+#bigborder {
+    border: 20px solid black;
 }
 
-.andrea {
-    margin-top: 20px;
+.airytop {
+    margin-top: 200px;
 }
