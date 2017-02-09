@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: lightsalmon;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 5px dashed orangered;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p {
+    padding: 10px 10px 10px 10px;
+    border: 1px solid black;
+}
+
+#example {
+    margin-bottom: 30px;
+}
+
+.andrea {
+    margin-top: 20px;
+}
